@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f76af58e4405149b28c8dcfa457e5e25
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - RedPrefab: {fileID: 7026422293575743910, guid: 2f93011e3967542f1a630c2a5a4f8317,
+      type: 3}
+  - sObject: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
